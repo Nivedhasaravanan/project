@@ -1,0 +1,14 @@
+img{
+    transition:transform.2s;
+    border:10px solid #AAAAAA;
+    width: 450px;
+    height: 450px;
+    align-content: center;
+    
+}
+img:hover{
+    transform:scale(0.9);
+}
+body{
+    text-align: center;
+}
